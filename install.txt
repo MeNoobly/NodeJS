@@ -1,0 +1,5 @@
+npm init
+npm i expresss
+npm i --save-dev nodemon
+npm i cross-env
+npm i dotenv
